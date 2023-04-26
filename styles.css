@@ -1,2 +1,6 @@
 
 /* Your CSS Code here. */
+.nav{
+	border: 1px solid black;
+	background-color:red;
+}
